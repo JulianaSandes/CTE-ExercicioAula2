@@ -1,2 +1,2 @@
 # CTE-ExercicioAula2
-Exercício ainda não está finalizado
+Exercício está finalizado
